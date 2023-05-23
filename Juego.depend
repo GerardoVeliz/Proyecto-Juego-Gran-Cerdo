@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1656298853 source:d:\juego\funciones.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1656298447 source:d:\juego\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1656298003 d:\juego\funciones.h
+
+1656430327 source:c:\users\les\downloads\juego\juego\funciones.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1656429976 source:c:\users\les\downloads\juego\juego\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1656424141 c:\users\les\downloads\juego\juego\funciones.h
+
+1656430328 source:e:\juego\juego\funciones.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1656432414 source:e:\juego\juego\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1656424142 e:\juego\juego\funciones.h
+
+1656704806 source:c:\users\les\desktop\juego\funciones.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1656704888 source:c:\users\les\desktop\juego\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1656704753 c:\users\les\desktop\juego\funciones.h
+
+1656938098 source:c:\users\gerar\downloads\onedrive_1_1-7-2022 (1)ultimaversion\funciones.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1656711982 source:c:\users\gerar\downloads\onedrive_1_1-7-2022 (1)ultimaversion\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1656711978 c:\users\gerar\downloads\onedrive_1_1-7-2022 (1)ultimaversion\funciones.h
+
+1656967500 source:c:\users\gerar\onedrive\escritorio\onedrive_1_1-7-2022 ultimaversion2.0\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1656957589 c:\users\gerar\onedrive\escritorio\onedrive_1_1-7-2022 ultimaversion2.0\funciones.h
+
+1656957732 source:c:\users\gerar\onedrive\escritorio\onedrive_1_1-7-2022 ultimaversion2.0\funciones.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
